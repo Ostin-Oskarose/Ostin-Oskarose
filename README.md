@@ -6,7 +6,7 @@ Full stack software developer
 
 - I love computers, working with them and learning more about them.
 - I enjoy tinkering, programming and setting up technological things.
-- I love music - creating and listening to it 😄 I'm a multi-instrumentalist though I mainly focus on guitar, all other instruments it's mainly experimentation.
+- I love music - creating and listening to it 😄 I'm a multi-instrumentalist though I mainly focus on guitar, all other instruments I like to experiment with and try to learn them.
 - I also love working on scale miniatures, mainly warhammer 40k but also gundams and many other types of models.
 
 <!--
