@@ -10,8 +10,10 @@ Full stack software developer
 - I also love working on scale miniatures, mainly warhammer 40k but also gundams and many other types of models.
 
 ### 🖥️ Tools and Technologies
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
+</div>
 
 <!--
 **Ostin-Oskarose/Ostin-Oskarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
