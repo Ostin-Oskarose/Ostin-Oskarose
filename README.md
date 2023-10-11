@@ -6,7 +6,7 @@ Full stack software developer
 
 - I love computers
 - I enjoy tinkering, programming and setting up technological things
-- I love music - creating and listening to it 😄
+- I love music - creating and listening to it 😄 I'm a multi-instrumentalist though I mainly focus on guitar
 
 <!--
 **Ostin-Oskarose/Ostin-Oskarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
