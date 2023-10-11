@@ -2,6 +2,12 @@
 
 Full stack software developer
 
+### 💬 About Me
+
+- I love computers
+- I enjoy tinkering, programming and setting up technological things
+- I love music - creating and listening to it 😄
+
 <!--
 **Ostin-Oskarose/Ostin-Oskarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
